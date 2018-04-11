@@ -19,7 +19,7 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 
 1. Clone the repository and navigate to the downloaded folder.
 ```	
-git clone https://github.com/udacity/dog-project.git
+git clone https://github.com/wangdong8500/dog-breed-clasification.git
 cd dog-project
 ```
 
